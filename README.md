@@ -52,4 +52,4 @@ A faísca inicial veio do conteúdo fera do **Bóson Treinamentos**. O código e
 Se curtiu, deixa uma ⭐ no repo e me segue para mais códigos aleatórios.
 
 ---
-Feito com ☕ e Python por **[Seu Nome]**.
+Feito com ☕ e Python por **Wilson Félix**.
