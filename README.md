@@ -21,7 +21,7 @@ Diferente dos tutoriais chatos que só mostram texto no terminal, aqui o negóci
 
 1.  **Clone este repositório** (ou baixe o zip se tiver preguiça):
     ```bash
-    git clone [https://github.com/SEU-USUARIO/desafio-hanoi-python.git](https://github.com/SEU-USUARIO/desafio-hanoi-python.git)
+    git clone [https://github.com/wrla1277-cmd/desafio-torre-hanoi.git](https://github.com/wrla1277-cmd/desafio-torre-hanoi.git)
     ```
 2.  **Entre na pasta:**
     ```bash
