@@ -2,11 +2,11 @@
 
 > "Tava meio entediado e vi uma matéria legal no canal Bóson Treinamentos e resolvi treinar um pouco meu Python com a Torre de Hanói."
 
-Seja bem-vindo ao meu playground de algoritmos! Este não é só mais um script de Torre de Hanói; é uma versão interativa, gamificada e com um desafio matemático embutido para fritar os neurônios. 🧠🔥
+Seja bem-vindo ! Tentei não fazer só mais um Torre de Hanói, mais uma versão interativa, gamificada e com um desafio matemático embutido para fritar os neurônios. 🧠🔥
 
 ![Status](https://img.shields.io/badge/Status-Finalizado-green) ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Vibe](https://img.shields.io/badge/Vibe-Coding-purple)
 
-## 🎮 O que tem de bom aqui?
+## 🎮 O que tem de bom ?
 
 Diferente dos tutoriais chatos que só mostram texto no terminal, aqui o negócio é visual e desafiador:
 
@@ -49,7 +49,7 @@ Diferente dos tutoriais chatos que só mostram texto no terminal, aqui o negóci
 
 A faísca inicial veio do conteúdo fera do **Bóson Treinamentos**. O código evoluiu para um desafio de UX e lógica matemática.
 
-Se curtiu, deixa uma ⭐ no repo e me segue para mais códigos aleatórios da madrugada!
+Se curtiu, deixa uma ⭐ no repo e me segue para mais códigos aleatórios.
 
 ---
 Feito com ☕ e Python por **[Seu Nome]**.
