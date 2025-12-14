@@ -17,7 +17,7 @@ Diferente dos tutoriais chatos que só mostram texto no terminal, aqui o negóci
 
 ## 🚀 Como rodar essa belezinha?
 
-É mais fácil que ganhar discussão no Twitter. Você só precisa ter o **Python** instalado.
+É super fácil começar. Você só precisa ter o *Python* instalado..
 
 1.  **Clone este repositório** (ou baixe o zip se tiver preguiça):
     ```bash
